@@ -5,7 +5,7 @@ var app = express();
 const fetch = require("node-fetch");
 
 // const url = 'https://11jskt4u1d.execute-api.us-east-1.amazonaws.com/prod/items/';
-const url = "https://jwft6r9dd4.execute-api.us-east-1.amazonaws.com/prod/items";
+const url = "https://kc2ysnde7h.execute-api.us-west-1.amazonaws.com/prod/items";
 // used to serve static files from public directory
 app.use(express.static("public"));
 accounts = [];
